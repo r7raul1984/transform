@@ -1,5 +1,7 @@
 package com.yhd;
 
+import com.yhd.pojo.HBaseAuditLogObject;
+
 public class LogParseUtil {
 
   public static final String YHD = "int.yihaodian.com";

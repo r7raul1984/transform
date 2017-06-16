@@ -1,6 +1,6 @@
 
-import com.yhd.HBaseAuditLogObject;
-import com.yhd.HBaseAuditLogParser;
+import com.yhd.pojo.HBaseAuditLogObject;
+import com.yhd.parser.HBaseAuditLogParser;
 import com.yhd.LogParseUtil;
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.yhd;
+package com.yhd.pojo;
 
 public class HBaseAuditLogObject {
 
